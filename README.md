@@ -1,11 +1,11 @@
 <h1 align="center">Hello. I'm Ness-Shinishi</h1>
 <h3 align="center">I am a beginner who started programming a month ago.<br> I am learning Java, JavaScript, and Python.<br> Currently, we are creating a "electromagnetic wave type earthquake prediction service" using Java.<br>一か月前からプログラミングを始めた初心者です。 JavaとJavascript、Pythonを学習しています。<br> 現在、Javaを使った"電磁波式地震予測サービス"を作成中です。</h3>
 
-- 🔭 I’m currently working on **"電磁波式地震予測サービス"**
+- I’m currently working on **"電磁波式地震予測サービス"**
 
-- 🌱 I’m currently learning **Java,Javascript,Python**
+- I’m currently learning **Java,Javascript,Python**
 
-- 📫 How to reach me **nessshinishi551020@gmail.com**
+- How to reach me **nessshinishi551020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
