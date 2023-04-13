@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/ness_shinishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ness_shinishi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@ness_shinishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ness_shinishi" height="30" width="40" /></a>
-<a href="https://discord.gg/Znve8hu3Tu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Znve8hu3Tu" height="30" width="40" /></a>
+<a href="https://discord.gg/ekqbdateSv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Znve8hu3Tu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
