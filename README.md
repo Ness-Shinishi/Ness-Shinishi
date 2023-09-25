@@ -1,5 +1,5 @@
 <h1 align="center">Hello. I'm Ness-Shinishi</h1>
-<h3 align="center">I am a beginner who started programming a month ago.<br> I am learning Java, JavaScript.<br> Currently, we are creating a "electromagnetic wave type earthquake prediction service" using Java.<br>一か月前からプログラミングを始めた初心者です。 JavaとJavascriptを学習しています。<br> 現在、Javaを使った"電磁波式地震予測サービス"を作成中です。</h3>
+<h3 align="center"> Beginner programming <br> I am learning Java, JavaScript.<br> I'm currently losing motivation <br> Physics is the best! <br>プログラミング初学者<br> JavaとJavascriptを学習中<br> 現在、やる気消滅中 <br> 物理サイコー</h3>
 
 - I’m currently working on **"電磁波式地震予測サービス"**
 
