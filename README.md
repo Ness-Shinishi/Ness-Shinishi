@@ -1,7 +1,7 @@
 <h1 align="center">Hello. I'm Ness-Shinishi</h1>
 <h3 align="center"> Beginner programming <br> I am learning Java, JavaScript.<br> I'm currently losing motivation. <br> Physics is the best! <br>プログラミング初学者<br> JavaとJavascriptを学習中<br> 現在、やる気消滅中 <br> 物理サイコー</h3>
 
-- I’m currently working on **"電磁波式地震予測サービス"**
+- I’m currently working on **"多次元物理学"**
 
 - I’m currently learning **Java,Javascript,**
 
